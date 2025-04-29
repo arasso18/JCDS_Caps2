@@ -1,2 +1,2 @@
 # JCDS_Caps2
-# Analisis Perilaku Customer Supermarkey
+# Analisis Perilaku Customer Supermarket
